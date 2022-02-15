@@ -4,4 +4,4 @@ This is a very skeletal configuration and setup for using flask to serve your so
 
 Once its achieved, we shall run through how to deploy the flask APIs together.
 
-Cheers sir.
+Cheers.
